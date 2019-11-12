@@ -54,7 +54,8 @@ class App extends Component {
 
   // getUsername = () => 'Mustapha';
 
-  componentDidMount() {
+  compon
+  entDidMount() {
     let user = localStorage.getItem("user");
     console.log(user);
     this.setState({ user });

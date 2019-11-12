@@ -108,6 +108,7 @@ class PharmacyDashboard extends React.Component {
     return (
       <div>
         <Tabs setComponentToRender={this.setComponentToRender} />
+
         <br />
         <TabForm
           renderComponents={this.renderComponents}

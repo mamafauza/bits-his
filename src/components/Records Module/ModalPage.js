@@ -209,7 +209,8 @@ class ModalPage extends React.Component {
           <ModalBody>
             {/* the form */}
             <form onSubmit={this.handleSubmit} method="POST">
-              <div className="row">
+              <div className="ro
+              w">
                 <div className="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                   <image
                       src={defaultImage}

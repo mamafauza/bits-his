@@ -25,7 +25,7 @@ export default () => {
         </div>
         <div className="site-mobile-menu-body" />
       </div>{' '}
-      {/*<!-- .site-mobile-menu -->*/}
+      {/*<!-- .site-mobile-menu -->*/}-
       <header className="site-navbar py-1" role="banner">
         <div className="container">
           <div className="row align-items-center">
